@@ -11,7 +11,7 @@
     "smtp-protocol": "2.4.7"
   },
   "optionalDependencies": {
-    "hiredis": "0.1.17"
+    "hiredis": "0.4.1"
   },
   "devDependencies": {
     "awsbox": "https://github.com/mozilla/awsbox/tarball/33c9de8f",
