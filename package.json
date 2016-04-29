@@ -16,7 +16,7 @@
   "devDependencies": {
     "awsbox": "https://github.com/mozilla/awsbox/tarball/33c9de8f",
     "should": "4.0.4",
-    "mocha": "1.21.4"
+    "mocha": "2.4.5"
   },
   "engines": {
     "node": ">= 0.10"
